@@ -9,5 +9,5 @@ This is a simple Guessing Game written in C++
     $ ./'Guess Game'
 
 * Without using makefile : can use the following commands to compile the project --> 
-    $ g++ *.cpp -o filename
-    $ ./filename
+1. $ g++ *.cpp -o filename
+2. $ ./filename
