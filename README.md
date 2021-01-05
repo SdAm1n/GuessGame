@@ -1,7 +1,7 @@
 # GuessGame
 This is a simple Guessing Game written in C++
 
-#How to run:
+# How to run:
 Linux
 *Using the makefile
 1. open terminal in project directory
