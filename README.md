@@ -7,6 +7,8 @@ This is a simple number Guessing Game written in C++.
 2. use the following command:
 3. $ make
 4. $ ./'Guess Game'
+5. To clean the object files and build the project again from scratch use command  
+    $ make clean
 
 * Without using makefile : can use the following commands to compile the project :
 1. $ g++ *.cpp -o filename
