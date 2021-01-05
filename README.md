@@ -1,4 +1,4 @@
-# GuessGame
+# Guess Game
 This is a simple number Guessing Game written in C++. Highest Score is saved in a txt file name best_score.txt .
 
 ## How to run on Linux
