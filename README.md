@@ -1,5 +1,5 @@
 # GuessGame
-This is a simple Guessing Game written in C++
+This is a simple number Guessing Game written in C++.
 
 ## How to run on Linux
 * Using the makefile
