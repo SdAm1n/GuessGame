@@ -1,6 +1,8 @@
 # Guess Game
 This is a simple number Guessing Game written in C++. Highest Score is saved in a txt file name best_score.txt .
 
+* Requirement: C++ compiler (preferably GNU Compiler) needs to be installed in your pc.
+
 ### How to run on Linux
 * Using the makefile
 1. open terminal in project directory
